@@ -6,6 +6,10 @@ Currently, this library serves as a personal repository for Packagist, facilitat
 
 These libraries are open for use, with the stipulation that licensing information is preserved. While issue reporting and contributions are welcome, I must advise that my ability to respond may be limited, and updates to this library may not occur regularly.
 
+## Notes on stability
+
+It should go without saying that, at the time of writing this, these libraries should not be considered stable. They may be missing unit tests, general examples, or further documentation. Additionally, there may be bugs present within the source. This is due to the fact that, as I need new library, I will write it - then include it in the project I'm working on - and fix bugs or add issues as things come up.
+
 ## Notes on Documentation
 
 Documenting a public library poses a significant challenge for me, primarily due to my struggle with articulating the operational intricacies of these libraries. To address this, I rely on AI, specifically OpenAI, to generate documentation. This approach ensures that while the code is authored by me, the documentation is both a personal reference and, potentially, a resource for public use.
