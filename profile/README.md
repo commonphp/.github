@@ -31,4 +31,6 @@ Below is a list of actively maintained libraries within this project:
 
 ### Configuration Drivers
 
-Future updates will introduce drivers for various configuration formats, including INI, JSON, PHP, XML, and YAML. Stay tuned for these enhancements!
+- JSON: [https://github.com/commonphp/config-json](https://github.com/commonphp/config-json)
+
+Future updates will introduce drivers for various configuration formats, including INI, PHP, XML, and YAML. Stay tuned for these enhancements!
